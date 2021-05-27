@@ -85,7 +85,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/geniustech\/wp-admin\/admin-ajax.php"}};
 </script>
 <script src="/gtech/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"5f26b1d49a"};
+var userProfileL10n = {"user_id":"0","nonce":"4ab288e9de"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
